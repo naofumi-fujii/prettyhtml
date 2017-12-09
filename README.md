@@ -1,4 +1,5 @@
 # prettyhtml
+format html via cli
 
 # install
 `$ go get -u github.com/naofumi-fujii/prettyhtml`
